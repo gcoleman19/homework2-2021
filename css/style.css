@@ -52,18 +52,17 @@ div#blue{
 
 div#yellow{
     background-color: #ffff00 !important;
+    color:#000;
     text-align:right;
-    color: #000;
     padding: 25px;
     min-height: 150px;
 }
 
-div#yellow.h2 {
+div#yellow h2 {
     text-shadow: 4px 4px 2px #c7e2c7;
     color: #000;
     text-align:right;
     padding: 25px;
-    min-height: 150px;
 }
 
 div#green{
